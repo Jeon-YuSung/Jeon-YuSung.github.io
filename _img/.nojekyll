@@ -1,7 +1,0 @@
-echo "" > .nojekyll
-git add .nojekyll
-git commit -m "Disable Jekyll for static image hosting"
-git push origin main
-
-
-https://github.com/Jeon-YuSung/Jeon-YuSung.github.io/blob/main/_img/Linker%20Example%20Gpt.png
